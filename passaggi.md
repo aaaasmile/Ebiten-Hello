@@ -31,3 +31,7 @@ Qui bisogna settare le variabili di sistema in modo diverso:
 	./gradlew compileDebugSources
     ./gradlew installDebug
     adb shell am start -n com.myapp.hello/.MainActivity
+
+## Problemi
+- Riconoscere lo smartphone in WSL2. 
+- Far funzionare Gradle.
